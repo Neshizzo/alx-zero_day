@@ -1,1 +1,1 @@
-This is the README for alx-zero_day repository
+This is my first task of my first ALX School program.
